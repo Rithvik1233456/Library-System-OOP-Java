@@ -1,2 +1,28 @@
-# Library-System-OOP-Java
-A sophisticated Java-based currency converter empowers users to seamlessly convert between a wide range of global currencies, including popular options like USD (United States Dollar), INR (Indian Rupee), GBP (British Pound Sterling), AUD (Australian Dollar), JPY (Japanese Yen), and EUR (Euro). With an intuitive user interface built using Swing and AWT, this application offers a seamless experience for users to enter the desired amount in one currency and instantly obtain the equivalent value in another. 
+# 📚 Java Library Management System
+
+> A Java‑based Library Management System demonstrating **Object‑Oriented Programming (OOP)** principles, **CRUD operations**, and user‑friendly console interaction to manage books and library users.
+
+## 🔍 Project Overview
+
+This project is a **Library Management System** built using **core Java** and OOP concepts. It enables basic library operations like adding books, managing user records, searching and displaying books, and tracking availability. This repository showcases your understanding of classes, objects, methods, and clean project structure — great to highlight in interviews.
+
+## 🚀 Features
+
+- 📘 Add new books to the library
+- 🗂️ View all stored books
+- 🔎 Search for books by title, author, or ID
+- 🧾 Update book details
+- ❌ Remove books from inventory
+- 🏷️ Manage book availability and status
+
+## 🧰 Technologies Used
+
+- **Java** — Object‑Oriented Programming (OOP)
+- **Console Interface** — Simple and intuitive user interaction
+- **Modular Design** — Classes representing book entities and library operations
+
+## 🛠️ How to Run the Project
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/Rithvik1233456/Library-System-OOP-Java.git
